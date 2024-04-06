@@ -10,3 +10,7 @@ All functions to analyze data are housed in a Jupyter notebook. Code can be run 
 
 ###
 Axograph files for indiviudal data analysis with their resepective metadata are available upon reasonbable request. 
+
+
+
+![wt_inject_gif](https://github.com/heblanke/VTA_DA_neurons_casein_kinase_2_and_SK_channels-/assets/97766161/95505bfd-2399-446a-a7af-4071528ea589)
