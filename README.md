@@ -1,7 +1,7 @@
 # Welcome!
 ![action_potential](https://github.com/heblanke/VTA_DA_neurons_casein_kinase_2_and_SK_channels-/assets/97766161/02929cb6-848a-4b0f-9b6a-c3b4257765a9)
 
-# VTA_DA_neurons_casein_kinase_2_and_SK_channels-
+# Python code to analyze single cell, patch clamp electrophysiology data collected in Axograph
 code for the casein kinase 2 paper 
 
 ###
