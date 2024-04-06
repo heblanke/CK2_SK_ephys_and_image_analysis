@@ -1,3 +1,6 @@
+# Welcome!
+![action_potential](https://github.com/heblanke/VTA_DA_neurons_casein_kinase_2_and_SK_channels-/assets/97766161/02929cb6-848a-4b0f-9b6a-c3b4257765a9)
+
 # VTA_DA_neurons_casein_kinase_2_and_SK_channels-
 code for the casein kinase 2 paper 
 
@@ -10,6 +13,9 @@ All functions to analyze data are housed in a Jupyter notebook. Code can be run 
 
 ###
 Axograph files for indiviudal data analysis with their resepective metadata are available upon reasonbable request. 
+
+
+
 
 
 
