@@ -11,7 +11,7 @@ The example directory houses example code workflows and files. They are effectiv
 These examples are not intended to represent every use case, but as a representation of how Axograph files were analyzed during the writing of the manuscript. 
 
 ###
-Unfortunately, GitHub has a file size cap at 25MB. Thus, the files in the "spontaneous_firing_example" folder will need to be unzipped prior to analysis. 
+Unfortunately, GitHub has a file size cap at 25MB. Thus, the files in the "spontaneous_firing_analysis" directory will need to be unzipped prior to analysis. 
 
 
 ###
