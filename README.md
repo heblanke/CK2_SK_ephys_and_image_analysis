@@ -17,6 +17,9 @@ Unfortunately, GitHub has a file size cap at 25MB. Thus, the files in the "spont
 ###
 All functions to analyze data are housed in a Jupyter notebook. Code can be run by installing Jupyter and opening the .ipynb file. Code is appropiately commented to indicate when functions work on directories or on single objects. 
 
+###
+All functions for the paper are housed in the .py file in the main branch. They are verbosely commented. 
+
 
 ###
 If you are unfamiliar with how code download from GitHub work, from the main brain, in the upper right hand corner click the green "Code" dropdown then "Download Zip" 
