@@ -30,3 +30,19 @@ If you are unfamiliar with how code download from GitHub work, from the main bra
 
 
 ![wt_inject_gif](https://github.com/heblanke/VTA_DA_neurons_casein_kinase_2_and_SK_channels-/assets/97766161/95505bfd-2399-446a-a7af-4071528ea589)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/2c27bd4b-53db-488f-974e-9ce4ab181ffa)
+
+
+###
+Image analysis
+
+###
+The entire directory for image analysis can be downloaded and run locally. It relies on Cellpose v3, which has some backend requirements like PyTorch. It is necessary to pip install cellpose. Follow their documentation (https://github.com/mouseland/cellpose)
+
+###
+Segentation occurs on TH positive cells, calculation occurs on the channel that is specified in the code. Check documentation within the notebooks and the image_analysis.py file to see exactly how its set up. The Examples are extracted single 1µm section tiffs. If paths are pointing to the correct place, it should function as plug and play. This has not been adequately tested on a Windows machine. 
