@@ -127,7 +127,7 @@ def analyze_feature(path, feature):
         table = pd.DataFrame(columns=[feature])     #create a table that has columns with the name you want
         table.name = feature                        #the tables name
         if filename.endswith(".axgd") or filename.endswith(".axgx"):    #check for the filetype
-            [traces] = efel.io.load_neo_file(filename, stim_start=500, stim_end=2500)    #load the trace, and define stim start and stop
+            [traces] = efel.io.load_neo_file(filename, stim_start=500, stim_end=1500)    #load the trace, and define stim start and stop
             print('Working on file: ', filename)
             file_names.append(filename)
             for data in traces:    #loop through these guys
