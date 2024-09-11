@@ -9,7 +9,7 @@ This repository is not under constant development. Errors may arise as a result 
 code for the 3xTg small conductance calcium activated potassium (SK) channel - casein kinase 2 (CK2) study
 
 ###
-The example directory houses example code workflows and files. They are effectively plug and play. Download the entire directory (https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives#), confirm your installment of Jupyter notebooks (https://jupyter.org/install), and run the code within the notebook. It is entirely self contained, and will output data to your current working directory. Given this project is not under constant development, it is possible that you will experience conflicts between packages, if this is the case, please open an issue.  
+The example directory houses example code workflows and files. They are effectively plug and play. In order to run the analysis: Download the entire directory (https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives#), confirm your installment of Jupyter notebooks (https://jupyter.org/install), and run the code within the notebook. It is entirely self contained, and will output data to your current working directory. Given this project is not under constant development, it is possible that you will experience conflicts between packages. 
 
 ###
 These examples are not intended to represent every use case, but as a representation of how Axograph files were analyzed during the writing of the manuscript. 
